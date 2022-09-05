@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ulysse-skpn
-- 🌱 I’m currently learning Javascript , TypeScript , Angular , PHP
+- 🌱 I mainly work with these languages or framework : Javascript , TypeScript , Angular , PHP
 - 📫 How to reach me mail : u.sekpon@gmail.com  / LinkedIn : https://www.linkedin.com/in/ulysse-sekpon-86342a176
 
 <!---
